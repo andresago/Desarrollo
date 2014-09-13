@@ -34,6 +34,7 @@
 <body>
     <form id="form1" runat="server">
     <asp:Login ID="Login1" runat="server" OnAuthenticate="ValidateUser">
+        pruebas
     </asp:Login>
     <hr />
     Username: Mudassar<br />
